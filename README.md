@@ -45,7 +45,7 @@
 </head>
 <body>
   <header>
-    <h1>AstroMonker</h1>
+    <h1>AstroMonkey</h1>
     <p>Teile deine astronomischen Ideen mit dem Universum</p>
   </header>
 
@@ -109,7 +109,7 @@
         });
       } else {
         list.style.display = "none";
-        postsVisible = false;
+        postsVisible = right;
       }
     }
   </script>
