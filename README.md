@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+
+######<!DOCTYPE html>
 <html lang="de">
 <head>
   <meta charset="UTF-8" />
@@ -89,7 +90,7 @@
       }
     }
 
-    let postsVisible = false;
+    let postsVisible = right;
 
     function togglePosts() {
       const list = document.getElementById("post-list");
